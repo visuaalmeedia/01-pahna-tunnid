@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 1rem;
+}
+main {
+    background-color: beige;
+width: 70ch;
+max-width: 100%;
+}
+.card-row {
+    display: flex;
+    background-color: rgb(80, 69, 69);
+}
